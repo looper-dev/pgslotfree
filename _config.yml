@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Pgslot Free - เครดิตฟรี
+title: โครตสล็อต เครดิตฟรี
 subtitle:
-description:
+description: รวมเว็บเครดิตฟรี
 keywords:
 author: John Doe
 language:
@@ -15,7 +15,7 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://pgslotfree.vercel.app/
 root: /
-permalink: :year/:month/:day/:title/
+permalink: title
 permalink_defaults:
 
 # Directory
